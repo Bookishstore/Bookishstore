@@ -22,9 +22,8 @@ I love **building projects**, **solving problems**, and **learning new technolog
 ---
 
 ## 🔗 Connect with me
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com)  
-- **GitHub:** [github.com/username](https://github.com/username)  
-- **Email:** your.email@example.com  
+- **GitHub:** (https://github.com/Bookishstore/)  
+- **Email:** bookishstore23@gmail.com  
 
 ---
 
