@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Md. Tanvir Hasib!
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&color=00F0FF&center=true&vCenter=true&width=600&lines=Welcome+to+Bookishstore+🚀;Innovate.+Build.+Grow.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+👋, +I'm MD. Tanvir Hasib.;">
 </h1>
 
 
