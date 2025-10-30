@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Md. Tanvir Hasib!
 
 ### 🚀 GitHub Profile Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BookishstoreE&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bookishstore&show_icons=true&theme=tokyonight)
 
 ### 🏆 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Bookishstore&theme=tokyonight)
