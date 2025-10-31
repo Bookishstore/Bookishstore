@@ -1,6 +1,6 @@
-<h1>
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=30&duration=4000&color=00F0FF&center=false&vCenter=true&width=600&lines=Hi+👋,+I'm+Md.+Tanvir+Hasib.;">
-</h1>
+
 
 
 <table>
